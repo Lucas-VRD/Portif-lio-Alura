@@ -34,7 +34,7 @@ body {
   font-size: 24px;
 }
 .tema button {
-  align-self: flex-end;
+  align-self: center;
   font-weight: 400;
   font-size: 24px;
   padding: 8px 16px;
